@@ -16,7 +16,8 @@ else
 fi
 
 sudo yum -y install perl-ExtUtils-Embed.noarch
-sudo yum install ncurses-devel
+sudo yum -y install ncurses-devel
+sudo yum -y install python36-devel
 
 tar -zxvf vim-8.1.2424.tar.gz
 cd vim-8.1.2424
