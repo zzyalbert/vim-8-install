@@ -1,6 +1,6 @@
 
 python3_config_dir=/usr/lib64/python3.6/config-3.6m-x86_64-linux-gnu/
-install_dir=/usr/local/vim8.1
+install_dir=/usr/share/vim8.1
 
 echo
 echo "python3 confi dir : $python3_config_dir"
